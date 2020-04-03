@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+"Este programa genera el total  subtotal e Iva de 4 productos "
+4
+1
+38
+"Ingrese el valor del primer producto"
+5
+1
+2
+p1
+4
+1
+38
+"ingrese el valor de segundo producto"
+5
+1
+2
+p2
+4
+1
+38
+"Ingrese el valor del tercer producto"
+5
+1
+2
+p3
+4
+1
+38
+"Ingrese el valor del cuarto producto"
+5
+1
+2
+p4
+6
+3
+8
+subtotal
+11
+p1+p2+p3+p4
+3
+IVA
+13
+subtotal*0.19
+5
+total
+12
+subtotal+IVA
+4
+1
+100
+"El subtotal es de: ", subtotal, "  El valor del IVA es de: ", IVA, "  El valor total es de: ",total
+1

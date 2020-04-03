@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+"Este programa determina el tipo de edad que tiene una persona"
+4
+1
+41
+"Por favor ingrese la edad de la persona"
+5
+1
+4
+edad
+7
+0
+1
+6
+edad<0
+7
+0
+1
+6
+edad<6
+7
+0
+1
+7
+edad<18
+7
+0
+1
+7
+edad<45
+7
+0
+1
+8
+edad<=90
+4
+1
+28
+"La persona es un matusalen"
+13
+4
+1
+31
+"La persona es un adulto mayor"
+13
+13
+4
+1
+25
+"La persona es un adulto"
+13
+13
+4
+1
+30
+"La persona es un adolescente"
+13
+13
+4
+1
+23
+"La persona es un niño"
+13
+13
+4
+1
+27
+"ERROR: Variable no válida"
+13
+1

@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+89
+"Este programa pide la fecha de nacimiento de dos personas y determina quien es el mayor"
+4
+1
+54
+"Ingrese la fecha de nacimiento de la primera persona"
+5
+1
+12
+year_person1
+4
+1
+54
+"Ingrese la fecha de nacimiento de la segunda persona"
+5
+1
+12
+year_person2
+6
+2
+4
+age1
+17
+2020-year_person1
+4
+age2
+17
+2020-year_person2
+7
+0
+1
+9
+age1=age2
+7
+0
+1
+9
+age1<age2
+4
+1
+53
+"La primera persona es mayor con una edad de: ", age1
+13
+4
+1
+52
+"La segunda persona es mayor con una edad de: ",age2
+13
+13
+4
+1
+43
+"las dos personas nacieron en el mismo año"
+13
+1

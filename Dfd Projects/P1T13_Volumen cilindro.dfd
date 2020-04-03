@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+133
+"Este programa determina el volumen del cilindro teniendo en cuenta el radio y la altura; Este programa fue creado por: Jaider Pérez"
+4
+1
+42
+"Ingrese el radio de la báse del cilindro"
+5
+1
+1
+r
+4
+1
+32
+"Ingrese la altura del cilindro"
+5
+1
+1
+h
+6
+2
+2
+Ab
+16
+(3.141592)*(r*r)
+7
+volumen
+4
+Ab*h
+4
+1
+47
+"El volumen del cilindro es: ", volumen, " Cm3"
+1

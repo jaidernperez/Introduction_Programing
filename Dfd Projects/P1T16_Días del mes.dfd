@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+101
+"Este programa fue creado por: Jaider Pérez; Determina la cantidad de días que tiene determinado mes"
+4
+1
+27
+"Ingrese el número del mes"
+5
+1
+3
+mes
+7
+0
+1
+17
+mes>0 and mes<=12
+4
+1
+42
+"ERROR: Valor numérico del mes incorrecto"
+13
+7
+0
+1
+61
+mes=1 or mes=3 or mes=5 or mes=7 or mes=8 or mes=10 or mes=12
+7
+0
+1
+33
+mes=4 or mes=6 or mes=9 or mes=11
+4
+1
+58
+"El mes tiene 28 o 29 diás dependiendo del año (biciesto)"
+13
+4
+1
+33
+"El mes ", mes, " Tiene 30 días "
+13
+13
+4
+1
+32
+"El mes ", mes," Tiene 31 días "
+13
+13
+1

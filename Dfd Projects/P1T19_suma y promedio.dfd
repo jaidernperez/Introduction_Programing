@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+'Este programa fue diseñado por: Jaider Pérez; Determina la suma y el promedion de N numeros'
+4
+1
+32
+'Ingrese la cantidad de números'
+5
+1
+1
+n
+6
+1
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+6
+1
+4
+suma
+6
+suma+i
+10
+6
+1
+8
+promedio
+6
+suma/n
+4
+1
+70
+'La suma de los n numeros es: ',suma,' y su promedio es de: ',promedio
+1

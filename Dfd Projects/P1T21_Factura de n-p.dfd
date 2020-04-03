@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+128
+'Este programa fue diseñado por: Jaider Pérez; Determina el valor bruto y el valor total de un determinado número de productos.'
+4
+1
+51
+'Ingrese el número de productos que desea calcular'
+5
+1
+3
+nPd
+6
+1
+8
+subtotal
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+3
+nPd
+1
+1
+1
+4
+1
+35
+'Ingrese el valor del producto ', i
+5
+1
+5
+valor
+6
+1
+8
+subtotal
+14
+subtotal+valor
+10
+6
+1
+5
+total
+24
+(subtotal*0.19)+subtotal
+4
+1
+67
+'El valor bruto es: ', subtotal, ' y el valor total es de: ', total
+1

@@ -1,0 +1,34 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+86
+"Este programa fue creado por: Jaider Pérez; Determina si un numero es par o es impar"
+4
+1
+19
+"Ingrese un número"
+5
+1
+1
+n
+7
+0
+1
+9
+n mod 2=0
+4
+1
+27
+"El número ", n," es impar"
+13
+4
+1
+25
+"El número ",n, " es par"
+13
+1

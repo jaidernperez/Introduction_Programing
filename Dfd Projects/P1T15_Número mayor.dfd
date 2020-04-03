@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+92
+'Este programa fue diseñado por: Jaider Pérez; Determina el número mayor entre tres numeros'
+4
+1
+22
+'Ingrese tres números'
+5
+1
+10
+n1, n2, n3
+7
+0
+1
+15
+n1=n2 and n2=n3
+7
+0
+1
+24
+n1>n2 and n1>n3 or n2=n1
+7
+0
+1
+15
+n2>n1 and n2>n3
+4
+1
+25
+n3, ' Es el número mayor'
+13
+4
+1
+25
+n2, ' Es el número mayor'
+13
+13
+4
+1
+25
+n1, ' Es el número mayor'
+13
+13
+4
+1
+25
+'Los números son iguales'
+13
+1

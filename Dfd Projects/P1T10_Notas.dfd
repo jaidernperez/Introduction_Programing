@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+71
+"Este programa realiza el promedio de los cuatro examenes del semestre"
+4
+1
+44
+"Ingrese el valor del primer examen del 20%"
+5
+1
+2
+e1
+4
+1
+45
+"Ingrese el valor del segundo examen del 25%"
+5
+1
+2
+e2
+4
+1
+43
+"Ingrese el valor del tercer examen de 25%"
+5
+1
+2
+e3
+4
+1
+43
+"Ingrese el valor del cuarto examen de 30%"
+5
+1
+2
+e4
+7
+0
+1
+62
+e1<0 or e1>5 or e2<0 or e2>5  or e3<0 or e3>5 or e4<0 or e4>5 
+6
+1
+5
+TOTAL
+37
+(e1*0.2)+(e2*0.25)+(e3*0.25)+(e4*0.3)
+4
+1
+38
+"El total del semestre es de: ", TOTAL
+13
+4
+1
+64
+"LAS NOTAS DEL SEMESTRE NO PUEDEN SER MENORES A 0 O MAYORES A 5"
+13
+1

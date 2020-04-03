@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+117
+"Esta es una aplicación que al ingresar la presión arterial le indica su estado según el índice de presión sistólica"
+4
+1
+63
+"Ingresar el índice de presión arterial sistólica del paciente"
+5
+1
+7
+presion
+7
+0
+1
+10
+presion<=0
+7
+0
+1
+11
+presion<=64
+7
+0
+1
+12
+presion>=160
+7
+0
+1
+12
+presion>=140
+7
+0
+1
+12
+presion>=120
+4
+1
+46
+"La persona tiene una presión arterial normal"
+13
+4
+1
+37
+"La persona sufre de prehipertensión"
+13
+13
+4
+1
+34
+"La persona sufre de hipertensión"
+13
+13
+4
+1
+36
+"El paciente está en estado crítico"
+13
+13
+4
+1
+34
+"La persona sufre de hipontensión"
+13
+13
+4
+1
+52
+"ERROR: la presión debe tener un valor mayor a cero"
+13
+1

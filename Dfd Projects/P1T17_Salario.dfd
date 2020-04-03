@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+130
+"Este programa fue creado por: Jaider Pérez; Determina el salario de una persona dependiendo de los días laborados durante el mes"
+4
+1
+59
+"Ingrese el numero de días laborados y el valor del sueldo"
+5
+1
+12
+dias, sueldo
+7
+0
+1
+32
+sueldo<0 or (dias<30 and dias>0)
+4
+1
+36
+"ERROR: los valores son incorrectos"
+13
+6
+1
+7
+salario
+16
+(sueldo/30)*dias
+4
+1
+42
+"El salario de la persona es de ", salario
+13
+1
