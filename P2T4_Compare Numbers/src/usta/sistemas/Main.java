@@ -2,12 +2,14 @@ package usta.sistemas;
 
 import java.util.Scanner;
 
+/**
+ * This software compare two numbers
+ *
+ * @author Jaider Pérez
+ * @version 14/04/2020
+ */
 public class Main {
-    /*
-        Author: Jaider Pérez
-        Date: 14/04/2020
-        Description: This software compare two numbers
-     */
+    
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         menu();
@@ -34,8 +36,14 @@ public class Main {
         System.out.println("Enter two numbers to compare: ");
     }
 
+    /**
+     * This function compare two numbers
+     *
+     * @param p_number1 first integer entered to compare
+     * @param p_number2 second integer entered to compare
+     * @return boolean that compare the parameters
+     */
     public static boolean compareNumbers(int p_number1, int p_number2) {
-        // Description: This function compare two numbers
         boolean var;
         var = p_number1 == p_number2;
         return var;
