@@ -20,7 +20,7 @@ public class Main {
 
         var sooth = compareNumbers(number1, number2);
         if (sooth)
-            System.out.println("The two numbers is same");
+            System.out.println("The two numbers are same");
         else
             System.out.println("The two numbers aren't same");
     }
