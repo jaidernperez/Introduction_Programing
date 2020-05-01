@@ -3,7 +3,7 @@ package usta.sistemas;
 import java.util.Scanner;
 
 /**
- * Description:mThis program simulates a hot drinks machine
+ * Description: This program simulates a hot drinks machine
  *
  * @author Jaider Pérez
  * @version 29/04/2020
